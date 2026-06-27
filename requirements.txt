@@ -1,0 +1,5 @@
+google-auth-oauthlib==1.1.0
+google-api-python-client==2.108.0
+groq==0.4.1
+python-dotenv==1.0.0
+email-validator==2.1.0
